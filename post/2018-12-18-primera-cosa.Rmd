@@ -1,0 +1,22 @@
+---
+title: Primera cosa
+author: Yo
+date: '2018-12-18'
+slug: primera-cosa
+categories:
+  - golang
+tags:
+  - go
+description: ''
+thumbnail: ''
+---
+# Esto es lo que quiero
+
+
+Nada era verdad hasta que llegaste tu;
+
+```{r}
+y<-rnorm(1040)
+hist(y,col="red")
+```
+
